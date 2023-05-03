@@ -1,10 +1,10 @@
-# eos-settings-plasma
+# eos-settings-plasma-livesession
 [![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)]()
 
-This repo holds the EndeavourOS customization for plasma.
+This repo holds the EndeavourOS customization for KDE/plasma Livesession to be bused for ISO
 
 This consists of two items:
 * A lightly customized version of Breeze Dark
 * A kdeglobals file which sets this theme as the default for new user accounts
 
-The primary purpose of this is to eliminate the unused discover icon on the panel.
+Setting panel icons for Livesession with enttries for installer log-tool and screenshot
